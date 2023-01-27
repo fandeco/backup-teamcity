@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Helpers;
+namespace Teamcity\Helpers;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\BadResponseException;

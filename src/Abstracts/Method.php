@@ -6,7 +6,7 @@
  * Time: 10:38
  */
 
-namespace App\Abstracts;
+namespace Teamcity\Abstracts;
 
 abstract class Method
 {

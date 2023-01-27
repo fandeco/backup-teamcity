@@ -6,7 +6,7 @@
  * Time: 10:33
  */
 
-namespace App\Exceptions;
+namespace Teamcity\Exceptions;
 
 
 use Exception;
